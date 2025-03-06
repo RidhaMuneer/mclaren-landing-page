@@ -306,6 +306,7 @@ ul {
 }
 
 .mobile-nav-button {
+  font-family: 'Orbitron', 'Michroma', sans-serif;
   color: var(--light-text);
   font-size: 1.5rem;
   font-weight: 600;
