@@ -5,7 +5,10 @@ This is a test project that was requested as part of a job interview. It is a la
 The project is built with [Next.js](https://nextjs.org) (App Router), React 19, and TypeScript, and was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Images
-![alt text](<Screenshot 2026-07-13 at 6.43.51 PM.png>) ![alt text](<Screenshot 2026-07-13 at 6.44.01 PM.png>) ![alt text](<Screenshot 2026-07-13 at 6.44.11 PM.png>)
+<img width="1710" height="939" alt="Screenshot 2026-07-13 at 6 44 11 PM" src="https://github.com/user-attachments/assets/fa237e0a-5ae2-420a-b91d-d31a8e6421f2" />
+<img width="1710" height="933" alt="Screenshot 2026-07-13 at 6 44 01 PM" src="https://github.com/user-attachments/assets/a0ddb2a4-a776-4d60-85d2-6889074c35b5" />
+<img width="1710" height="935" alt="Screenshot 2026-07-13 at 6 43 51 PM" src="https://github.com/user-attachments/assets/4f3d049a-b266-4dfb-aa55-32947ed38424" />
+
 <!-- Screenshots will be added here -->
 
 ## Getting Started
